@@ -3,8 +3,8 @@
 A full-stack, AI-powered Business Intelligence agent designed to query, synthesize, and analyze live deal pipelines and operational work orders from Monday.com. Built as a prototype for Skylark Drones.
 
 ## Live Demo
-* **Frontend UI (Vercel):** [Insert your Vercel URL here]
-* **Backend API (Render):** [Insert your Render URL here]
+* **Frontend UI (Vercel):** https://skylark-bi-agent-taupe.vercel.app
+* **Backend API (Render):** https://skylark-bi-agent-61rc.onrender.com
 
 ## Tech Stack
 * **Frontend:** React, Vite, CSS, React-Markdown, Remark-GFM
@@ -23,7 +23,7 @@ If you wish to run this project locally, follow the steps below.
 
 ### 1. Clone the Repository
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/skylark-bi-agent.git
+git clone https://github.com/Abhishekhv1/skylark-bi-agent.git
 cd skylark-bi-agent
 \`\`\`
 
